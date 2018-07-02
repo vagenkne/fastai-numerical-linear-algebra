@@ -10,3 +10,6 @@ http://nbviewer.jupyter.org/github/vagenkne/fastai-numerical-linear-algebra/blob
 
 ### Week3
 http://nbviewer.jupyter.org/github/vagenkne/fastai-numerical-linear-algebra/blob/master/nbs/Week3.ipynb
+
+## Week4
+http://nbviewer.jupyter.org/github/vagenkne/fastai-numerical-linear-algebra/blob/master/nbs/Week4.ipynb
